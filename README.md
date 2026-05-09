@@ -31,8 +31,11 @@ An AI-powered Disease Prediction System developed using Machine Learning techniq
 ```bash
 disease prediction/
 
+---
 
 ## ⚙️ Installation
 
 pip install -r requirements.txt
 python app.py
+
+---
